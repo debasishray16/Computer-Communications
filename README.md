@@ -18,3 +18,27 @@ Some commonly used transport protocols include:
 - Transmission Control Protocol (TCP): TCP is a connection-oriented protocol that ensures reliable transmission of data by implementing mechanisms such as error checking, retransmission, and congestion control.
 
 - User Datagram Protocol (UDP): UDP is a connectionless protocol that provides faster, but less reliable data transmission. It does not guarantee the delivery of packets or maintain any record of past communication.
+
+### Network Protocols
+
+Network protocols are responsible for enabling communication between computers on different networks. They are responsible for routing data packets across multiple networks and facilitating the discovery and establishment of network connections.
+
+Some important network protocols include:
+
+- Internet Protocol (IP): IP is the most widely used network protocol, responsible for routing and addressing data packets.
+
+- Internet Protocol Version 6 (IPv6): IPv6 is the newer version of IP, designed to overcome the limitations of IPv4, such as a finite number of IP addresses.
+
+- Address Resolution Protocol (ARP): ARP is used to map an IP address to a physical (MAC) address, allowing computers to communicate with one another within a local network.
+
+### Application Protocols
+
+Application protocols are responsible for providing specific communication functions between applications. They are typically implemented using the transport layer (e.g., TCP) or the application layer (e.g., HTTP).
+
+Some examples of application protocols include:
+
+- Hypertext Transfer Protocol (HTTP): HTTP is a widely used application protocol for transmitting and receiving web pages and other resources across the internet.
+
+- Simple Mail Transfer Protocol (SMTP): SMTP is an application protocol used for sending and receiving email messages between mail servers.
+
+- File Transfer Protocol (FTP): FTP is an application protocol used for transferring files between a client and a server over a network.
