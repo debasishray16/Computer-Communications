@@ -18,7 +18,3 @@ Some commonly used transport protocols include:
 - Transmission Control Protocol (TCP): TCP is a connection-oriented protocol that ensures reliable transmission of data by implementing mechanisms such as error checking, retransmission, and congestion control.
 
 - User Datagram Protocol (UDP): UDP is a connectionless protocol that provides faster, but less reliable data transmission. It does not guarantee the delivery of packets or maintain any record of past communication.
-
-### Network Protocols
-
-Network protocols are responsible
