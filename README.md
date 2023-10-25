@@ -42,3 +42,11 @@ Some examples of application protocols include:
 - Simple Mail Transfer Protocol (SMTP): SMTP is an application protocol used for sending and receiving email messages between mail servers.
 
 - File Transfer Protocol (FTP): FTP is an application protocol used for transferring files between a client and a server over a network.
+
+## Summary
+
+In conclusion, computer communication protocols play a pivotal role in enabling efficient and secure information exchange between computers. By defining a set of rules and procedures for data transmission and reception, communication protocols ensure that data is accurately and efficiently transmitted from one computer to another.
+
+In particular, transport protocols are responsible for ensuring reliable data transmission, network protocols are responsible for facilitating communication between computers on different networks, and application protocols provide specific communication functions for various applications.
+
+Additionally, security measures, such as encryption and secure communication protocols, are integral to protecting the data exchanged during computer communication. By employing robust security measures, communication protocols help to safeguard sensitive information and maintain the integrity and confidentiality of transmitted data.
