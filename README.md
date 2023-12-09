@@ -1,4 +1,5 @@
 # Computer-Communications
+
 Computer communication refers to the exchange of data between computers or devices using various transmission methods. It enables information sharing, remote collaboration, and internet connectivity. This communication can occur over wired (e.g., Ethernet cables) or wireless (e.g., Wi-Fi or cellular networks) connections. Protocols, like TCP/IP, govern data transfer, ensuring reliability and security. The Internet is a prime example of global computer communication, facilitating web browsing, email, and multimedia streaming. With the proliferation of IoT devices, computer communication has expanded to encompass smart homes, industries, and automation, revolutionizing how data is transmitted, received, and processed on a global scale.
 
 ## Types of Communication Protocols
